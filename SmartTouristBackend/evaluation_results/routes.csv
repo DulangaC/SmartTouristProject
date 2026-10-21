@@ -1,0 +1,13 @@
+﻿scenario,option,stops,cost_usd,straight_line_km,time_proxy_hours,preference_match_percent,sightseeing_value,passed_constraints,destination_ids
+kandy_nature,cheapest,6,0.0,94.85,9.37,58.3,8.5,True,23-42-41-40-10-39
+kandy_nature,shortest_straight_line,2,10.0,1.0,2.53,75.0,3.5,True,23-3
+kandy_nature,best_preference_match,3,12.0,27.78,6.69,100.0,6.75,True,4-23-76
+sigiriya_history,cheapest,5,0.0,159.04,9.48,60.0,7.25,True,64-57-59-61-58
+sigiriya_history,shortest_straight_line,2,33.0,1.06,6.03,75.0,3.5,True,1-2
+sigiriya_history,best_preference_match,5,75.0,127.1,16.68,100.0,11.25,True,1-5-65-66-20
+kandy_culture,cheapest,5,0.0,199.2,9.98,50.0,6.25,True,23-82-11-81-64
+kandy_culture,shortest_straight_line,2,2.0,1.72,2.04,75.0,3.5,True,44-23
+kandy_culture,best_preference_match,3,12.0,6.29,5.16,66.7,4.75,True,23-44-4
+low_budget,cheapest,4,0.0,170.88,8.77,50.0,5.0,True,64-98-58-61
+low_budget,shortest_straight_line,2,13.0,17.62,4.94,75.0,3.5,True,2-5
+low_budget,best_preference_match,2,8.0,20.33,5.01,75.0,3.5,True,2-68
