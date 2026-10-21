@@ -1,0 +1,48 @@
+# Local secrets and signing credentials
+.env
+.env.*
+!.env.example
+.hazard_admin_key
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+key.properties
+local.properties
+credentials.json
+service-account*.json
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local runtime data (created automatically by the backend)
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# IDE and generated application files
+.idea/
+*.iml
+.vscode/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.gradle/
+.cxx/
+build/
+coverage/
+node_modules/
+ephemeral/
+Pods/
+.symlinks/
+*.log
+.DS_Store
+Thumbs.db
